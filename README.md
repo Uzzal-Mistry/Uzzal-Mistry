@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the project [**AppOrbit**]()
 - 🌱 I’m currently learning [**Next.js**](https://nextjs.org/) and [**TypeScript**](https://www.typescriptlang.org/)
 
-##### Skills
+#### Skills
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="{BadgeURLHere}" />
 
-##### Connect With Me
+
+#### Connect With Me
 
 ![https://x.com/UzzalMistry01](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=whit) ![https://x.com/UzzalMistry01](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-##### My Github Stats
+#### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=gruvbox)
