@@ -37,7 +37,13 @@ Here are some ideas to get you started:
 
 #### Connect With Me
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UzzalMistry01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzzal-mistry/)
+<a href="https://x.com/UzzalMistry01" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="https://www.linkedin.com/in/uzzal-mistry/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="X">
+</a>
+
 
 
 
