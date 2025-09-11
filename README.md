@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working on the project [**AppOrbit**]()
+- 🌱 I’m currently learning [**Next.js**](https://nextjs.org/) and [**TypeScript**](https://www.typescriptlang.org/)
