@@ -38,7 +38,7 @@
 ---
 
 ## Github Stats
-![Uzzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://nirzak-streak-stats.vercel.app/?user=Uzzal-Mistry&theme=tokyonight&hide_border=false)
+![Uzzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight) ![Current Streak](https://nirzak-streak-stats.vercel.app/?user=Uzzal-Mistry&theme=tokyonight&hide_border=false) ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 
 
