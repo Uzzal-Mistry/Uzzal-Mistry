@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### Connect With Me
+## Connect With Me
 
 <p align="center">
   
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### Github Stats
+## Github Stats
 ![Uzzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=gruvbox)
 
 ---
