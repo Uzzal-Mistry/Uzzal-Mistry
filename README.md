@@ -37,7 +37,10 @@ Here are some ideas to get you started:
 
 #### Connect With Me
 
-![https://x.com/UzzalMistry01](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=whit) ![https://x.com/UzzalMistry01](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UzzalMistry01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzzal-mistry/)
+
+
+
 
 #### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=gruvbox)
+![Uzzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=gruvbox)
