@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 
 #### Connect With Me
 
-<a href="https://x.com/UzzalMistry01" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-<a href="https://www.linkedin.com/in/uzzal-mistry/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
+
+<p align="center">
+  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UzzalMistry01)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzzal-Mistry)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzzal-mistry/)  [![Portfolio](https://img.shields.io/badge/Portfolio-4E46DC?style=for-the-badge&logo=window&logoColor=white)](https://YourPortfolioLink.com)
+
+</p>
 
 
 
