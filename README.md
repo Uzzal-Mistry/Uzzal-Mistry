@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UzzalMistry01)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzzal-Mistry)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzzal-mistry/)  [![Portfolio](https://img.shields.io/badge/Portfolio-4E46DC?style=for-the-badge&logo=window&logoColor=white)](https://YourPortfolioLink.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UzzalMistry01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzzal-mistry/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzzal-Mistry)    [![Portfolio](https://img.shields.io/badge/Portfolio-4E46DC?style=for-the-badge&logo=window&logoColor=white)](https://YourPortfolioLink.com)
 
 </p>
 
