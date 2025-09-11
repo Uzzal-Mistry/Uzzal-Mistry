@@ -1,4 +1,4 @@
-## Hello World ! I'm Uzzal Mistry👋
+
 ![uzzal mistry](/img/github-header-banner.png)
 
 <!--
@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the project [**AppOrbit**]()
 - 🌱 I’m currently learning [**Next.js**](https://nextjs.org/) and [**TypeScript**](https://www.typescriptlang.org/)
 
-#### Skills
+---
+
+## Skills
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -34,9 +36,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
+---
 
 #### Connect With Me
-
 
 <p align="center">
   
@@ -44,9 +46,9 @@ Here are some ideas to get you started:
 
 </p>
 
-
-
-
+---
 
 #### Github Stats
 ![Uzzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=gruvbox)
+
+---
