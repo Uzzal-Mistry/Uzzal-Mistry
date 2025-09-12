@@ -1,8 +1,13 @@
 
 ![uzzal mistry](/img/github-header-banner.png)
-# Hi there, I'm Uzzal 
 
-MERN Stack Developer | Building Scalable & Modern Web Applications
+<p align="center">
+  <h1>Hi there, I'm Uzzal 👋</h1>
+  <strong>MERN Stack Developer | Building Scalable & Modern Web Applications</strong>
+</p>
+<!-- # Hi there, I'm Uzzal 
+
+MERN Stack Developer | Building Scalable & Modern Web Applications -->
 
 # 🧑‍💻 About Me: 
 
