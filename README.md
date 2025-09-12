@@ -5,9 +5,9 @@
   <h1>Hi there, I'm Uzzal 👋</h1>
   <strong>MERN Stack Developer | Building Scalable & Modern Web Applications</strong>
 </p>
-<!-- # Hi there, I'm Uzzal 
+# Hi there, I'm Uzzal 
 
-MERN Stack Developer | Building Scalable & Modern Web Applications -->
+MERN Stack Developer | Building Scalable & Modern Web Applications
 
 # 🧑‍💻 About Me: 
 
