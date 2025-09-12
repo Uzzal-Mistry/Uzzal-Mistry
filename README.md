@@ -1,21 +1,19 @@
 
 ![uzzal mistry](/img/github-header-banner.png)
-
 # Hi there, I'm Uzzal
 
 I'm a passionate **MERN Stack Developer** who loves building modern, scalable, and user-friendly web applications.  
 Currently, I'm focusing on creating impactful projects and contributing to open-source while practicing clean, maintainable code.
 
-
 # 🧑‍💻 About Me:
 
-- 🔭 Currently working on the project [**AppOrbit**]()
+- 🔭 Currently working on the project [**AppOrbit**](https://github.com/Uzzal-Mistry/AppOrbit_Client_Side)
 - 🌱 Learning [**Next.js**](https://nextjs.org/) and [**TypeScript**](https://www.typescriptlang.org/)
-
-- ⚡ Exploring new technologies and best practices in [**Full stack development**]()
+- ⚡ Exploring new technologies and best practices in [**Full Stack Development**](#)
 - 🤝 Always open to collaborating on exciting MERN projects
 
 ---
+
 
 ## 💻 Skills
 
@@ -60,7 +58,7 @@ Currently, I'm focusing on creating impactful projects and contributing to open-
 
 
 
-
+<!-- 
  # 🧑‍💻 About Me:
 Hi, I'm Uzzal Mistry
 
@@ -86,7 +84,7 @@ Hi, I'm Uzzal Mistry
 ---
 [![](https://visitcount.itsvg.in/api?id=Uzzal-Mistry&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+ -->
 
 
 <!-- <p align="center">
@@ -104,18 +102,18 @@ Hi, I'm Uzzal Mistry
 
 ---
 
-## 📌 About Me
-<p align="center">
+## 📌 About Me 
+ <p align="center">
   🌱 Currently improving my skills in <b>backend development & advanced React</b> <br>
   ⚡ Exploring new technologies and best practices in <b>full stack development</b> <br>
   🎯 Goal: Build real-world, impactful projects and contribute to open-source <br>
   🤝 Always open to collaborating on exciting MERN projects
 </p>
 
----
+<!-- --- -->
 
-## 🛠️ Tech Stack
-<p align="center">
+<!-- ## 🛠️ Tech Stack -->
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
@@ -125,11 +123,11 @@ Hi, I'm Uzzal Mistry
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
-</p>
+</p> -->
 
----
+<!-- --- -->
 
-## 🧩 Tools I Use
+<!-- ## 🧩 Tools I Use
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
@@ -140,22 +138,22 @@ Hi, I'm Uzzal Mistry
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black"/>
-</p>
+</p> -->
 
----
+<!-- --- -->
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/Uzzal-Mistry/AppOrbit_Client_Side"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uzzal-Mistry&repo=AppOrbit_Client_Side&theme=tokyonight" /></a>
   <a href="https://github.com/Uzzal-Mistry/Voluntopia_Client_Side"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uzzal-Mistry&repo=Voluntopia_Client_Side&theme=tokyonight" /></a>
   <a href="https://github.com/Uzzal-Mistry/RoomSeekr_Clent_Side"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uzzal-Mistry&repo=RoomSeekr_Clent_Side&theme=tokyonight" /></a>
-</p>
+</p> -->
 
----
+<!-- --- -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&layout=compact&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=Uzzal-Mistry&theme=tokyonight" />
-</p>
+</p> -->
