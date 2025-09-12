@@ -1,7 +1,7 @@
 
 ![uzzal mistry](/img/github-header-banner.png)
 
-<h1 align="center">Hi 👋, I'm Uzzal</h1>
+<h1 align="center"> Hi there 👋, I'm Uzzal</h1>
 <h3 align="center">🌱 MERN Stack Developer | Building Scalable & Modern Web Applications</h3>
 
 
@@ -58,7 +58,47 @@ Currently, I'm focusing on creating impactful projects and contributing to open-
 ---
 
 ## 📊 Github Stats
-![Uzzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight)![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![Current Streak](https://nirzak-streak-stats.vercel.app/?user=Uzzal-Mistry&theme=tokyonight&hide_border=false) 
+![Uzzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight)  ![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![Current Streak](https://nirzak-streak-stats.vercel.app/?user=Uzzal-Mistry&theme=tokyonight&hide_border=false) 
+
+## 📊 GitHub Stats:
+<div >
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://nirzak-streak-stats.vercel.app/?user=Uzzal-Mistry&theme=tokyonight&hide_border=false" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+
+## 📊 GitHub Stats:
+<div >
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzzal-Mistry&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uzzal-Mistry&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uzzal-Mistry&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uzzal-Mistry&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uzzal-Mistry&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+
+ ## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uzzal-Mistry&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+</p>
 
 
 
