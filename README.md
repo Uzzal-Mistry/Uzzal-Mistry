@@ -2,7 +2,7 @@
 ![uzzal mistry](/img/github-header-banner.png)
 
 <h1 align="center"> Hi there 👋, I'm Uzzal</h1>
-<h3 align="center">🌱 MERN Stack Developer | Building Scalable & Modern Web Applications</h3>
+<h3 align="center">🌱 MERN Stack Developer | Full Stack Developer </h3>
 
 
 
