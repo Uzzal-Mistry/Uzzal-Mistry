@@ -28,6 +28,30 @@ Currently, I'm focusing on creating impactful projects and contributing to open-
 
 ## 🛠️ Tech Stack
 
+![HTML](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26&color=22222f)
+![CSS](https://img.shields.io/badge/css-8855bb?style=for-the-badge&logo=css&logoColor=7744aa&color=22222f)
+![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&color=22222f)
+![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&color=22222f)
+![NodeJS](https://img.shields.io/badge/node.js-5fa04e?style=for-the-badge&logo=node.js&logoColor=5fa04e&color=22222f)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&color=22222f)
+![ExpressJS](https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=express&logoColor=ffffff&color=22222f)
+![Next.js](https://img.shields.io/badge/next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=ffffff&color=22222f)
+![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&color=22222f)
+![React Router](https://img.shields.io/badge/react_router-ca4245?style=for-the-badge&logo=reactrouter&logoColor=ca4245&color=22222f)
+![DaisyUI](https://img.shields.io/badge/daisyui-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=1ad1a5&color=22222f)
+![Headless UI](https://img.shields.io/badge/headless_ui-66e3ff?style=for-the-badge&logo=headlessui&logoColor=66e3ff&color=22222f)
+![TanStack Query](https://img.shields.io/badge/tanstack_query-ff4154?style=for-the-badge&logo=reactquery&logoColor=ff4154&color=22222f)
+![Axios](https://img.shields.io/badge/axios-7a49f7?style=for-the-badge&logo=axios&logoColor=7a49f7&color=22222f)
+![React Hook Form](https://img.shields.io/badge/react_hook_form-ec5990?style=for-the-badge&logo=reacthookform&logoColor=fd6aa1&color=22222f)
+![Lucide Icons](https://img.shields.io/badge/lucide-f56565?style=for-the-badge&logo=lucide&logoColor=f56565&color=22222f)
+![Stripe](https://img.shields.io/badge/stripe-635bff?style=for-the-badge&logo=stripe&logoColor=635bff&color=22222f)
+![React Leaflet](https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=199900&color=22222f)
+![Swiper](https://img.shields.io/badge/swiper-6332f6?style=for-the-badge&logo=swiper&logoColor=6f42ff&color=22222f)
+![Firebase (Auth)](https://img.shields.io/badge/firebase-ff4c00?style=for-the-badge&logo=firebase&logoColor=ff4c00&color=22222f)
+![JSON Web Tokens](https://img.shields.io/badge/jwt-ffffff?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff&color=22222f)
+![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&color=22222f)
+
+
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
