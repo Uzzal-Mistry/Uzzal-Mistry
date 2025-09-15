@@ -18,7 +18,7 @@ Currently, I'm focusing on creating impactful projects and contributing to open-
 
 
 
-- 🔭  working on the project [**AppOrbit**](https://github.com/Uzzal-Mistry/AppOrbit_Client_Side)
+- 🔭 Working on the project [**AppOrbit**](https://github.com/Uzzal-Mistry/AppOrbit_Client_Side)
 - 🌱 Learning [**Next.js**](https://nextjs.org/) and [**TypeScript**](https://www.typescriptlang.org/)
 - ⚡ Exploring new technologies and best practices in [**Full Stack Development**](#)
 - 🤝 Always open to collaborating on exciting MERN projects
