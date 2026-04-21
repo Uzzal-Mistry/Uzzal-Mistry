@@ -90,13 +90,19 @@ Currently, I'm focusing on creating impactful projects and contributing to open-
     </tr>
  </table>
 
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight" alt="Uzzal's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Uzzal's GitHub Stats"/></td>
-         <td><img style="border: none;" src="https://nirzak-streak-stats.vercel.app/?user=Uzzal-Mistry&theme=tokyonight&hide_border=false" alt="Uzzal's GitHub Stats"/></td>
-    </tr>
- </table>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&theme=tokyonight&layout=compact" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Uzzal-Mistry&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
