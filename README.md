@@ -13,7 +13,7 @@ MERN Stack Developer | Building Scalable & Modern Web Applications -->
 
 # 🧑‍💻 About Me: 
 
-I'm a passionate **MERN Stack Developer** who loves building modern, scalable, and user-friendly web applications.  
+I'm a  **MERN Stack Developer** who loves building modern, scalable, and user-friendly web applications.  
 Currently, I'm focusing on creating impactful projects and contributing to open-source while practicing clean, maintainable code.
 
 
