@@ -93,7 +93,7 @@ Currently, I'm focusing on creating impactful projects and contributing to open-
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Uzzal-Mistry&v=1&show_icons=true&theme=tokyonight" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzzal-Mistry&theme=tokyonight&layout=compact" />
