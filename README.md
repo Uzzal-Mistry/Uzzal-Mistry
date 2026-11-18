@@ -50,7 +50,7 @@ Currently, I'm focusing on creating impactful projects and contributing to open-
 ![JSON Web Tokens](https://img.shields.io/badge/jwt-ffffff?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff&color=22222f)
 ![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&color=22222f)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&color=22222f)
-
+![Neon](https://img.shields.io/badge/neon-00E5FF?style=for-the-badge&logo=neon&logoColor=00E5FF&color=22222f)
 <!--
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
